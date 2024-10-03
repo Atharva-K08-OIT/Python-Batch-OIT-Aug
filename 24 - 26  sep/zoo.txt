@@ -1,0 +1,21 @@
+Animal 01 Lion: The lion is a large cat of the genus Panthera, native to Africa and India. 
+It has a muscular, broad-chested body; a short, rounded head; round ears; 
+and a dark, hairy tuft at the tip of its tail. 
+It is sexually dimorphic; 
+adult male lions are larger than females and have a prominent mane.
+
+Animal 02
+
+Cheetah:
+The cheetah is a large cat and the fastest land animal. 
+It has a tawny to creamy white or 
+pale buff fur that is marked with evenly spaced, solid black spots. 
+The head is small and rounded, with a short snout and black tear-like facial streaks
+
+Animal 03
+
+Elephants:
+Elephants are the largest living land animals. 
+Three living species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant. 
+They are the only surviving members of the family Elephantidae and the order Proboscidea; 
+extinct relatives include mammoths and mastodons

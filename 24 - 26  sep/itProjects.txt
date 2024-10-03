@@ -1,0 +1,22 @@
+
+Project 01
+
+Facial recognition system:
+The facial recognition system is 
+a biometric system that uses facial features to identify or verify an individual.
+It is a type of biometric authentication that uses a camera to capture images of a person's face
+and then compares them to a database of known faces to determine if there is a match.
+
+Project 02
+
+Credit card safety application
+The credit card safety application is a mobile application that helps 
+users protect their credit cards from fraud.
+It uses machine learning algorithms to detect suspicious transactions 
+and alerts the user if a transaction is flagged as suspicious.
+
+Project 03
+
+Airline ticketing system:
+The airline ticketing system is a web-based application that allows users to book flights, manage their bookings
+and access their flight information.
